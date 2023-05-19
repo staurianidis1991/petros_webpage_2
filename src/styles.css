@@ -1,0 +1,14 @@
+body {
+    /* background-color: #42988F ; */
+    background-image: url(../src/assets/pictures/tingey-injury-law-firm-DZpc4UY8ZtY-unsplash.jpg);
+    
+}
+
+.bottom{
+  position: fixed;
+  bottom: 0px;
+
+  /* And if you want the div to be full-width: */
+  left: 0;
+  right: 0;
+}

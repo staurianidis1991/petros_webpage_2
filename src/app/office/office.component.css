@@ -1,0 +1,22 @@
+#petros{
+    float: left;
+    margin: 25px;
+}
+
+strong{
+    text-decoration: underline;
+}
+
+p{
+    text-align:justify;
+}
+
+/* h5{
+    text-decoration: underline;
+} */
+
+img{
+    border-radius: 50px;
+}
+
+

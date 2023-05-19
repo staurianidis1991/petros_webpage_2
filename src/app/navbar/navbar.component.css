@@ -1,0 +1,13 @@
+li{
+    /* margin: 5px; */
+    margin-inline-start: 7em;
+    
+}
+
+a{
+    border: solid  #24524d ;
+    border-radius: 50px;
+    border-width: 5px;
+    background-color: #24524d;
+    
+}
